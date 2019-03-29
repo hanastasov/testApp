@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/hanastasov/testApp.svg?branch=master)](https://travis-ci.org/hanastasov/testApp)
 
+[![Build Status](https://dev.azure.com/HAnastasov/testApp/_apis/build/status/hanastasov.testApp?branchName=master)](https://dev.azure.com/HAnastasov/testApp/_build/latest?definitionId=1&branchName=master)
+
 # testApp
 
 This project was generated with [Ignite UI CLI](https://github.com/IgniteUI/igniteui-cli) version 3.2.1.
