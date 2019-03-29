@@ -1,4 +1,4 @@
-https://travis-ci.org/hanastasov/testApp.svg?branch=master
+[![Build Status](https://travis-ci.org/hanastasov/testApp.svg?branch=master)](https://travis-ci.org/hanastasov/testApp)
 
 # testApp
 
